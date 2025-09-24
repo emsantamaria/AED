@@ -1,0 +1,5 @@
+Zelda:  10
+Mario:  9
+Sonic:  8
+:
+The Witcher: 10
